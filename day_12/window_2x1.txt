@@ -1,0 +1,27 @@
+// 1
+E
+X
+
+X
+E
+
+// 2
+
+X
+X
+
+E
+E
+
+
+E       EX      EE      EX      EE
+X       XE      XX      XX      XE
+
+X       XE      XX      XX      XE
+E       EX      EE      EX      EE
+
+E       EE      EX      EX      EE
+E       EX      EE      EX      EE
+
+X       XE      XX      XX      XE
+X       XX      XE      XX      XE

@@ -1,0 +1,53 @@
+// 1
+EE
+EX
+
+EX
+EE
+
+XE
+EE
+
+EE
+XE
+
+// 2
+EX
+EX
+
+XX
+EE
+
+XE
+XE
+
+EE
+XX
+
+EX
+XE
+
+XE
+EX
+
+// 3
+
+XX
+XE
+
+XE
+XX
+
+EX
+XX
+
+XX
+EX
+
+// 4
+
+EE
+EE
+
+XX
+XX
